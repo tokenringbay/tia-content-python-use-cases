@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 click = "*"
+assault = {editable = true, path = "."}
 
 [dev-packages]
 twine = "*"
